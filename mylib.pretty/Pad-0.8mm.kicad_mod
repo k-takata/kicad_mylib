@@ -1,0 +1,13 @@
+(footprint "Pad-0.8mm" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -1.27 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 1e3d412f-4014-4621-98a7-d14900ed26e7)
+  )
+  (fp_text value "Pad-0.8mm" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a8b3a2f2-615a-45ff-9814-01d377b3d3aa)
+  )
+  (pad "" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Paste" "*.Mask") (tstamp c0f7d68e-1e92-404e-a6e0-d5d00570f8b8))
+)
