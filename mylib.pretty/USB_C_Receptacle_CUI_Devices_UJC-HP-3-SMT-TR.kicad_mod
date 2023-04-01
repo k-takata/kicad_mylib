@@ -95,4 +95,9 @@
   (pad "S1" thru_hole oval (at -4.32 1.9) (size 1 1.7) (drill oval 0.5 1.2) (layers "*.Cu" "*.Mask") (tstamp 2579fc05-3a0a-40dd-9912-359471d49693))
   (pad "S1" thru_hole oval (at 4.32 -1.9) (size 1 1.7) (drill oval 0.5 1.2) (layers "*.Cu" "*.Mask") (tstamp 41eeccc8-75b4-4492-adeb-64d4369b450e))
   (pad "S1" thru_hole oval (at 4.32 1.9) (size 1 1.7) (drill oval 0.5 1.2) (layers "*.Cu" "*.Mask") (tstamp 4c8b88c3-3bf6-4a93-9bc5-7066f4593e0a))
+  (model "${KICAD_MYLIB_DIR}/mylib.3dshapes/UJC-HP-3-SMT-TR.step"
+    (offset (xyz 0 2 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
