@@ -1,3 +1,5 @@
 *		text=auto
 *.kicad_mod	text
 *.kicad_sym	text
+*.step		text
+*.wrl		text
