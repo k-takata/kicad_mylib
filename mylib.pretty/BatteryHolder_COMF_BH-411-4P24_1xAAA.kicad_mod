@@ -1,6 +1,6 @@
 (footprint "BatteryHolder_COMF_BH-411-4P24_1xAAA" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "1xAAA Battery Holder, COMF, Plastic Case, https://akizukidenshi.com/download/ds/comf/BH-411-4P24.pdf")
+  (descr "1xAAA Battery Holder, COMF, Plastic Case, https://akizukidenshi.com/goodsaffix/BH-411-4P24.pdf")
   (tags "AAA battery holder COMF")
   (attr through_hole)
   (fp_text reference "REF**" (at 0.1 -8 180) (layer "F.SilkS")
