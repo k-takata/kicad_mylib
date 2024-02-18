@@ -1,5 +1,6 @@
 (footprint "Connector_USB_C_simple_combo" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
+  (descr "Selectable footprint for AE-USB2.0-TYPE-C-5077R and 5077CR-16-SMC2-BK-TR")
   (attr through_hole)
   (fp_text reference "REF**" (at 10.16 7.62 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.1)))
