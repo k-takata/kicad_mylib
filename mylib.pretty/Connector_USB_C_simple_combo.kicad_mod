@@ -153,4 +153,9 @@
   (pad "S1" thru_hole oval (at 6.1545 11.94 90) (size 1 2.1) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask") (tstamp aaf16221-f22c-4fb4-a4ee-d4c0653c8a95))
   (pad "S1" thru_hole oval (at 10.3345 3.3 90) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask") (tstamp 9b39717d-b76d-49af-ac88-3c37a4e5db5f))
   (pad "S1" thru_hole oval (at 10.3345 11.94 90) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask") (tstamp 3d10293c-d4fd-466a-987e-f6634fbf8919))
+  (model ":KICAD7_3DMODEL_DIR:Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.step"
+    (offset (xyz 9.45 -7.58 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )
